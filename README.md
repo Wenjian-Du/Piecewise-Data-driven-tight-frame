@@ -8,7 +8,7 @@ MATLAB implementation of the image denoising algorithm proposed in the paper "Pi
 **Authors:** Wenjian Du, Jia Li and Qiwen Zhou  
 **Journal:** Inverse Problems and Imaging  
 **Year:** 2025  
-**DOI:** To be added
+**DOI:** 10.3934/ipi.2025050
 
 ## 📦 Installation and Requirements
 
