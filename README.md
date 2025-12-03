@@ -1,4 +1,4 @@
-# Piecewise-Data-driven-tight-frame
+# Piecewise Data-Driven Tight Frame and $\ell_0$-Balanced Image Denoising Method 
 MATLAB implementation of the image denoising algorithm proposed in the paper "Piecewise Data-Driven Tight Frame and ℓ0-Balanced Image Denoising Method".
 
 ## 📖 Paper Information
